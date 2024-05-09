@@ -1,0 +1,9 @@
+<annotationInfo>
+<annotationInfo>
+<item  id="12" filename="clock_generator-vhls/clock_generator.cpp" linenumber="33" name="icmp_ln33" contextFuncName="clock_generator" moduleName="clock_generator" rtlName="icmp_ln33_fu_46_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="18" fileDirectory="D:\vivado_hls"><\/item>
+<item  id="13" filename="clock_generator-vhls/clock_generator.cpp" linenumber="37" name="next_counter" contextFuncName="clock_generator" moduleName="clock_generator" rtlName="next_counter_fu_52_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="39" fileDirectory="D:\vivado_hls"><\/item>
+<item  id="14" filename="clock_generator-vhls/clock_generator.cpp" linenumber="33" name="select_ln33" contextFuncName="clock_generator" moduleName="clock_generator" rtlName="select_ln33_fu_58_p3" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="32" fileDirectory="D:\vivado_hls"><\/item>
+<item  id="15" filename="clock_generator-vhls/clock_generator.cpp" linenumber="33" name="xor_ln33" contextFuncName="clock_generator" moduleName="clock_generator" rtlName="xor_ln33_fu_66_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="2" fileDirectory="D:\vivado_hls"><\/item>
+<item  id="16" filename="clock_generator-vhls/clock_generator.cpp" linenumber="21" name="select_ln21" contextFuncName="clock_generator" moduleName="clock_generator" rtlName="select_ln21_fu_72_p3" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="2" fileDirectory="D:\vivado_hls"><\/item>
+<\/annotationInfo>
+</annotationInfo>
