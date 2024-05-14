@@ -2,7 +2,7 @@
 
 #define CLOCK_FREQUENCY_DIVIDER  20
 
-typedef enum{passive, active} clock_state_type;
+typedef enum{passive, active} clock_state_type;			//Two states that named passive and active.
 
 void clock_generator(bool &out_clock) {
 #pragma HLS INTERFACE ap_none port = out_clock
@@ -16,7 +16,7 @@ void clock_generator(bool &out_clock) {
 	clock_state_type next_state;
 	unsigned int     next_counter;
 
-	bool clock_signal_reg;
+	bool clock_signal_reg;					//Register signal connected to out_clock 
 
 	switch(state) {
 	case passive:
